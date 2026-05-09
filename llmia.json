@@ -14,30 +14,6 @@
     "language_info": {
       "name": "python"
     },
-    "widgets": {
-      "application/vnd.jupyter.widget-state+json": {
-        "3b5d657fef0b4025b913cd738f3542bc": {
-          "model_module": "@jupyter-widgets/controls",
-          "model_name": "HBoxModel",
-          "model_module_version": "1.5.0",
-          "state": {
-            "_dom_classes": [],
-            "_model_module": "@jupyter-widgets/controls",
-            "_model_module_version": "1.5.0",
-            "_model_name": "HBoxModel",
-            "_view_count": null,
-            "_view_module": "@jupyter-widgets/controls",
-            "_view_module_version": "1.5.0",
-            "_view_name": "HBoxView",
-            "box_style": "",
-            "children": [
-              "IPY_MODEL_7be81c28072c4abfa0922020bfc3d695",
-              "IPY_MODEL_c08e496059004d24b1f785869d7bdac3",
-              "IPY_MODEL_80b331e97b9a487ca9320e1e3c86ccb3"
-            ],
-            "layout": "IPY_MODEL_a1e3a7057af74333b84554d823add00f"
-          }
-        },
         "7be81c28072c4abfa0922020bfc3d695": {
           "model_module": "@jupyter-widgets/controls",
           "model_name": "HTMLModel",
